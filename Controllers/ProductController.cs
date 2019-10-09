@@ -75,7 +75,7 @@ namespace Catalog.Controllers
                 return new ResultViewModel
                 {
                     Success = false,
-                    Message = "Não foi possível alterar o produto",
+                    Message = "teste",
                     Data = model.Notifications
                 };
 
