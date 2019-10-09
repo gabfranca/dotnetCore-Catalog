@@ -1,0 +1,10 @@
+C:\Projects\dotnetCore\Catalog\bin\Debug\netcoreapp2.0\Catalog.deps.json
+C:\Projects\dotnetCore\Catalog\bin\Debug\netcoreapp2.0\Catalog.runtimeconfig.json
+C:\Projects\dotnetCore\Catalog\bin\Debug\netcoreapp2.0\Catalog.runtimeconfig.dev.json
+C:\Projects\dotnetCore\Catalog\bin\Debug\netcoreapp2.0\Catalog.dll
+C:\Projects\dotnetCore\Catalog\bin\Debug\netcoreapp2.0\Catalog.pdb
+C:\Projects\dotnetCore\Catalog\obj\Debug\netcoreapp2.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Projects\dotnetCore\Catalog\obj\Debug\netcoreapp2.0\Catalog.AssemblyInfoInputs.cache
+C:\Projects\dotnetCore\Catalog\obj\Debug\netcoreapp2.0\Catalog.AssemblyInfo.cs
+C:\Projects\dotnetCore\Catalog\obj\Debug\netcoreapp2.0\Catalog.dll
+C:\Projects\dotnetCore\Catalog\obj\Debug\netcoreapp2.0\Catalog.pdb
